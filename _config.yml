@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bruno Castro Machado"
+title                    : "Bruno Sotto-Mayor"
 title_separator          : "-"
-name                     : &name "Bruno Castro Machado"
+name                     : &name "Bruno Sotto-Mayor de Castro Machado"
 description              : &description "personal description"
 url                      : https://brunosottomayor.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
