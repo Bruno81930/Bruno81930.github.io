@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2017 => 2019 **MEng in Information Systems and Computer Engineering**, [Instituto Superior Técnico - University of Lisbon](https://tecnico.ulisboa.pt), Portugal: **Software Engineering Specialization Major**; Advisor: prof. [Rui Abreu](ruimaranhao.com).
+* 2017 => 2018 **Computer Science Master Course**, [Lund University](https://lunduniversity.lu.se), Sweden: As an Erasmus exchange student I attended the following courses: Language Technology; An Introduction to Information Security; Constraint Programming; Configuration Management. 
+* 2014 => 2017 **BEng in Information Systems and Computer Engineering**, [Instituto Superior Técnico - University of Lisbon](https://tecnico.ulisboa.pt), Portugal, 2017.
 
 Work experience
 ======
@@ -27,33 +27,15 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

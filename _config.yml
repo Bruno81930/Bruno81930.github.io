@@ -83,7 +83,7 @@ author:
   name             : "Bruno Sotto-Mayor"
   avatar           : "profile.png"
   bio              : "Master Degree in Information Systems and Computer Engineering @ IST, University of Lisbon "
-  location         : "Lisboa, Portugal"
+  location         : "Lisbon, Portugal"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
       type: publications
