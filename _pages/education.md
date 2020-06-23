@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}<br>
 
+* Oct 2019 &rarr; Today &nbsp;\|&nbsp; **PhD of Engineering in Information Systems and Computer Engineering (PhDEng)**, [Ben Gurion University of the Negev](https://in.bgu.ac.il/en/pages/default.aspx): **Vulnerability Prediction; System Diagnosis and Artificial Intelligence**; Advisor: Prof. [Meir Kalech](http://www.ise.bgu.ac.il/faculty/kalech/).
+
+---
+
 * Sep 2017 &rarr; Sep 2019 &nbsp;\|&nbsp; **Master of Engineering in Information Systems and Computer Engineering (MEng)**, [Instituto Superior Técnico - University of Lisbon, Portugal](https://tecnico.ulisboa.pt): **Software Engineering Specialization Major**; Advisor: Prof. [Rui Abreu](https://ruimaranhao.com/).
 
 ---
